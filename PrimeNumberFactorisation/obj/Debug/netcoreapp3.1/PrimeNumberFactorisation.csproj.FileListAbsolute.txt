@@ -1,0 +1,13 @@
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\bin\Debug\netcoreapp3.1\PrimeNumberFactorisation.exe
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\bin\Debug\netcoreapp3.1\PrimeNumberFactorisation.deps.json
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\bin\Debug\netcoreapp3.1\PrimeNumberFactorisation.runtimeconfig.json
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\bin\Debug\netcoreapp3.1\PrimeNumberFactorisation.runtimeconfig.dev.json
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\bin\Debug\netcoreapp3.1\PrimeNumberFactorisation.dll
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\bin\Debug\netcoreapp3.1\PrimeNumberFactorisation.pdb
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.csprojAssemblyReference.cache
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.AssemblyInfoInputs.cache
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.AssemblyInfo.cs
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.csproj.CoreCompileInputs.cache
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.dll
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.pdb
+C:\Users\Sleepy\Documents\C# Repository\PrimeNumberFactorisation\PrimeNumberFactorisation\obj\Debug\netcoreapp3.1\PrimeNumberFactorisation.genruntimeconfig.cache
